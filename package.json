@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kusochek-humora.github.io/Moderno1/app/index.html",
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
